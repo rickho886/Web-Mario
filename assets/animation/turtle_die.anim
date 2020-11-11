@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "turtle_die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": -0.016666666666666666,
+            "value": {
+              "__uuid__": "c4442a41-a500-4201-a171-3f7178552363"
+            }
+          },
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c4442a41-a500-4201-a171-3f7178552363"
+            }
+          }
+        ]
+      },
+      "cc.PhysicsBoxCollider": {
+        "size": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 41.1,
+              "height": 83.5
+            }
+          }
+        ]
+      },
+      "cc.RigidBody": {
+        "fixedRotation": [
+          {
+            "frame": 0,
+            "value": true
+          }
+        ]
+      }
+    },
+    "props": {
+      "width": [
+        {
+          "frame": -0.016666666666666666,
+          "value": 42
+        },
+        {
+          "frame": 0,
+          "value": 42
+        }
+      ],
+      "height": [
+        {
+          "frame": -0.016666666666666666,
+          "value": 37
+        },
+        {
+          "frame": 0,
+          "value": 40
+        }
+      ]
+    }
+  },
+  "events": []
+}

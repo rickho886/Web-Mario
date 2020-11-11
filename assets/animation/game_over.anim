@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "game_over",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.8333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 353.089
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 5.192
+        },
+        {
+          "frame": 1.5,
+          "value": 50.678
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": 27.123
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8227f0c7-ce3e-4bfa-9db8-3a73ed76fdba"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

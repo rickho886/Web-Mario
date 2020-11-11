@@ -1,0 +1,157 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mario_powerup",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.1833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d1e68c4e-c252-4e45-bb61-cd3d21e94e97"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "2a3ebcbe-a7e4-4270-ac3d-2ee609aff3f5"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "d1e68c4e-c252-4e45-bb61-cd3d21e94e97"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "2a3ebcbe-a7e4-4270-ac3d-2ee609aff3f5"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "d1e68c4e-c252-4e45-bb61-cd3d21e94e97"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "2a3ebcbe-a7e4-4270-ac3d-2ee609aff3f5"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "d1e68c4e-c252-4e45-bb61-cd3d21e94e97"
+            }
+          },
+          {
+            "frame": 1.1666666666666667,
+            "value": {
+              "__uuid__": "2a3ebcbe-a7e4-4270-ac3d-2ee609aff3f5"
+            }
+          }
+        ]
+      },
+      "cc.PhysicsBoxCollider": {
+        "size": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 34.2,
+              "height": 41.6
+            }
+          },
+          {
+            "frame": 1.1666666666666667,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 34.2,
+              "height": 52.6
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 45
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 34
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 42
+        },
+        {
+          "frame": 0.5,
+          "value": 34
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 42
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 34
+        },
+        {
+          "frame": 1,
+          "value": 42
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 34
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 42
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 54
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 45
+        },
+        {
+          "frame": 0.5,
+          "value": 54
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": 45
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 54
+        },
+        {
+          "frame": 1,
+          "value": 45
+        },
+        {
+          "frame": 1.1666666666666667,
+          "value": 54
+        }
+      ]
+    }
+  },
+  "events": []
+}

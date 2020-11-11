@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mushroom",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "78e83018-397e-4439-b0fa-4655f39f0b4d"
+            }
+          }
+        ]
+      },
+      "cc.PhysicsBoxCollider": {
+        "size": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 32,
+              "height": 32
+            }
+          },
+          {
+            "frame": 1.5,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 32,
+              "height": 32
+            }
+          }
+        ],
+        "sensor": [
+          {
+            "frame": 0,
+            "value": true
+          },
+          {
+            "frame": 1.5,
+            "value": false
+          }
+        ]
+      },
+      "cc.RigidBody": {
+        "enabledContactListener": [
+          {
+            "frame": 0,
+            "value": false
+          },
+          {
+            "frame": 1.5,
+            "value": true
+          }
+        ]
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 0.122
+        },
+        {
+          "frame": 1.5,
+          "value": 37.44
+        }
+      ]
+    }
+  },
+  "events": []
+}

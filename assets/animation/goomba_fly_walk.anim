@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "goomba_fly_walk",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1dc4e893-d7d2-48a8-84ca-6ed00ed6e662"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "b319d0e6-8899-4f23-bba3-cd6e65806895"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "1dc4e893-d7d2-48a8-84ca-6ed00ed6e662"
+            }
+          }
+        ]
+      },
+      "cc.PhysicsBoxCollider": {
+        "size": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 38,
+              "height": 38
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

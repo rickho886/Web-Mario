@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mario_big_move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.18333333333333332,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2a3ebcbe-a7e4-4270-ac3d-2ee609aff3f5"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "3ea2484f-fdca-4029-8354-634943fc3f54"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "3ea2484f-fdca-4029-8354-634943fc3f54"
+            }
+          }
+        ]
+      },
+      "cc.PhysicsBoxCollider": {
+        "size": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 34.2,
+              "height": 53.3
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 34.2,
+              "height": 53.3
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 34
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 34
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 54
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 54
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mario_big_idle",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": -0.016666666666666666,
+            "value": {
+              "__uuid__": "2a3ebcbe-a7e4-4270-ac3d-2ee609aff3f5"
+            }
+          },
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "2a3ebcbe-a7e4-4270-ac3d-2ee609aff3f5"
+            }
+          }
+        ]
+      },
+      "cc.PhysicsBoxCollider": {
+        "size": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Size",
+              "width": 34.2,
+              "height": 53.3
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "width": [
+        {
+          "frame": 0,
+          "value": 34
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 54
+        }
+      ]
+    }
+  },
+  "events": []
+}

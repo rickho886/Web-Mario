@@ -1,0 +1,93 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "coin",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "89ea44ad-1a3e-4375-87a7-5d21edae0f91"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "159dbb06-c45f-4a91-9856-0aabd68b132b"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "89ea44ad-1a3e-4375-87a7-5d21edae0f91"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "4e514b70-87d5-4db0-a33f-874a980b2808"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "82a7bd6f-ab08-4550-9fed-f8ce91534702"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "159dbb06-c45f-4a91-9856-0aabd68b132b"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "89ea44ad-1a3e-4375-87a7-5d21edae0f91"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.05,
+          "value": 33.551
+        },
+        {
+          "frame": 0.1,
+          "value": 63.551
+        },
+        {
+          "frame": 0.15,
+          "value": 100.551
+        },
+        {
+          "frame": 0.2,
+          "value": 110.551
+        },
+        {
+          "frame": 0.25,
+          "value": 74.551
+        },
+        {
+          "frame": 0.3,
+          "value": -0.614
+        }
+      ]
+    }
+  },
+  "events": []
+}
