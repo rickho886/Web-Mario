@@ -1,3 +1,4 @@
+Demo : https://mario-107062361.web.app/
 # Software Studio 2020 Spring Assignment 2
 ## Notice
 * Replace all [xxxx] to your answer
@@ -236,5 +237,3 @@ Another kind of login type.
 ![](https://gitlab.com/107062361/as_02_mario/-/raw/master/gif/loading_transition.gif)
 
 Transition from Login Page to Start Game Menu Page.
-
-https://mario-107062361.web.app/
